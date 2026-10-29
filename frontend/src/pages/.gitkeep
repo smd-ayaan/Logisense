@@ -1,0 +1,3 @@
+# pages/ — One folder per module/page.
+# Phase 4 will create: Login, Dashboard, Inventory, Warehouses, Orders,
+#   Assets, Suppliers, Downtime, SpareParts, Quality, Ingest.

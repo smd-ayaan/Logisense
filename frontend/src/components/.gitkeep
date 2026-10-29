@@ -1,0 +1,3 @@
+# components/ — Shared UI components.
+# Phase 4 will create: DataTable, KpiCard, StatusBadge, PageHeader,
+#   FilterBar, ChartCard, Timeline, EmptyState, Skeleton, ConfirmDialog, FileDropzone.

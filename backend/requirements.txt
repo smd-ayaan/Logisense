@@ -1,0 +1,19 @@
+# Backend Python dependencies
+# Phase 3 will pin exact versions after testing.
+
+fastapi
+uvicorn[standard]
+pyexasol
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+pandas
+scikit-learn
+numpy
+faker
+rapidfuzz
+openpyxl
+python-multipart
+pytest
+httpx

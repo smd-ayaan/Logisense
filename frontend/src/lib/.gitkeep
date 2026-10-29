@@ -1,0 +1,2 @@
+# lib/ — API client and utility helpers.
+# Phase 4 will implement: api.ts (axios instance), utils.ts, cn.ts.

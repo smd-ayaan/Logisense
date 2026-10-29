@@ -1,0 +1,61 @@
+# Environment & Secrets
+.env
+*.env
+.env.*
+!.env.example
+
+# Data files (generated, not committed)
+data/
+data/supplier_samples/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+ENV/
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.next/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS Specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Pytest & Coverage
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+
+# Logs & Temporary Files
+*.log
+logs/
+temp/
+tmp/

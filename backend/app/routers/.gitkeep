@@ -1,0 +1,3 @@
+# routers/ — One file per domain router.
+# Phase 3 will create: auth, dashboard, inventory, warehouses, orders,
+#   shipments, assets, suppliers, downtime, spareparts, quality, ingest.

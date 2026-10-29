@@ -26,6 +26,11 @@ Built for **ExaThon India 2026** — *Factories, Fleets & Supply Chains Track*.
 
 ---
 
+## Demo video
+https://drive.google.com/file/d/1eKLls4hGykX5P3WFEZgxOqG8uOQQWf2h/view?usp=sharing
+
+---
+
 ## 🏛️ Architecture
 
 ```mermaid
